@@ -2,9 +2,9 @@
 /*
 Plugin Name: Post To Menu
 Author: Spencer Guier
-Version: 0.1.0
+Version: 1.0
 Tags: Menus, Pages
-Author URI: http://guierweb.com
+Author URI: http://wp.spencer.vegas
 Description: Add posts, pages, and other post types to the top level of WordPress menus directly from the Post Editor Page.
 */
 
