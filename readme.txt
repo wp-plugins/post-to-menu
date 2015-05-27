@@ -1,8 +1,11 @@
-=== Add to Menu ===
+=== Post to Menu ===
+
+Contributors: SpencerGuier
 Tags: menus, navigation, menu-bar
 Requires at least: 3.0.0
 Tested up to: 4.2
-Stable tag: 0.1.0
+Stable tag: 1.0
+Donate link: http://spencer.vegas/
 
 Add Pages, Posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page.
 
@@ -24,3 +27,6 @@ If the post type has hierarchal structure (such as parent Pages), this will try 
 
 = 0.1.0 =
 * Initial version of the plugin
+
+= 1.0 =
+* Realease version of the plugin
