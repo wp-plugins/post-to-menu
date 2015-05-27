@@ -29,4 +29,4 @@ If the post type has hierarchal structure (such as parent Pages), this will try 
 * Initial version of the plugin
 
 = 1.0 =
-* Realease version of the plugin
+* Release version of the plugin
