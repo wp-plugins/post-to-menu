@@ -7,11 +7,11 @@ Tested up to: 4.2
 Stable tag: 1.0
 Donate link: http://spencer.vegas/
 
-Add Pages, Posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page.
+Add pages, posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page.
 
 == Description ==
 
-Add Pages, Posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page. Check the checkbox for the menu to add a the post / page / custom post type to, update the post / page / custom post type and it will then be added to the top level of all the checked menus.
+Add pages, posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page. Check the checkbox for the menu to add a the post / page / custom post type to, update the post / page / custom post type and it will then be added to the top level of all the checked menus.
 
 You can control which post types display the 'Add to Menu' meta box by going to the 'Settings > Post to Menu' page.
 
