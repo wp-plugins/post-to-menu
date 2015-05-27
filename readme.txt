@@ -5,7 +5,7 @@ Tags: menus, navigation, menu-bar
 Requires at least: 3.0.0
 Tested up to: 4.2
 Stable tag: 1.0
-Donate link: http://spencer.vegas/
+Donate link: http://spencer.vegas/donate
 
 Add pages, posts, or any other custom post types to any of your registered WordPress menus directly from the post editor page.
 
