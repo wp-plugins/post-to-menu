@@ -30,3 +30,8 @@ If the post type has hierarchal structure (such as parent Pages), this will try 
 
 = 1.0 =
 * Release version of the plugin
+
+== Screenshots ==
+
+1. `/assets/post-to-menu-2.png`
+2. `/assets/post-to-menu-1.png`
